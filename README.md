@@ -1,0 +1,2 @@
+# AVFrameworkQR
+QR reader
